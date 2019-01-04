@@ -6,5 +6,5 @@ This is just a simple web application created to perform CRUD - Create, Read, Up
 3. Jquery CDN
 4. PHP
 ## Database
-MySql
+MySQL
 ### Happy Coding guys!!!
