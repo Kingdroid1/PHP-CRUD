@@ -5,4 +5,6 @@ This is just a simple web application created to perform CRUD - Create, Read, Up
 2. Bootstrap CDN
 3. Jquery CDN
 4. PHP
+## Database
+MySql
 ### Happy Coding guys!!!
