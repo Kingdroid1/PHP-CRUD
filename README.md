@@ -8,3 +8,4 @@ This is just a simple web application created to perform CRUD - Create, Read, Up
 ## Database
 MySQL
 ### Happy Coding guys!!!
+Follow me on twitter @twinstarboy
